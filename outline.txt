@@ -1,0 +1,2 @@
+We modified given main.cpp to add two more tests: One is for empty test(test 4) and the other is one-leaf test(test 5).
+We passed all the test given by instructors and tests we designed.
